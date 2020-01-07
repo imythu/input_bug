@@ -1,0 +1,9 @@
+{
+    "login": "登录",
+    "forget_password": "忘记密码",
+    "not_support_localStorage": "浏览器不支持记住密码功能，若要使用此功能请升级浏览器或使用最新版 Chrome",
+    "prompt_input_username": "请输入用户名！",
+    "prompt_input_pwd": "请输入密码！",
+    "remember_me": "记住我",
+    "": ""
+}

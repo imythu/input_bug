@@ -1,0 +1,10 @@
+{
+    "login": "Login",
+    "prompt_input_username": "Please enter user name!",
+    "prompt_input_pwd": "Please enter the password!",
+    "forget_password": "Forget password",
+    "register": "Register an account",
+    "remember_me": "Remember me",
+    "not_support_localStorage": "Browser does not support remember password feature. To use this feature please upgrade your browser or use the latest version of Chrome",
+    "": ""
+}
